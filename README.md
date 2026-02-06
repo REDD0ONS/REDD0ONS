@@ -2,11 +2,11 @@
 ㅤㅤㅤㅤㅤㅤ‎ ㅤ‎ ‎ ‎ ㅤ‎ㅤ‎ ‎ ‎  <p align="center">![](https://komarev.com/ghpvc/?username=KyoyaOotori&color=e93987&label=+☾‎‎‧₊)</p>
 
 <p align="center">
-<img src="https://file.garden/aADASQgY3QmuIjC3/Untitled84_20250614183035.png" width="350" height="350" border="0"/>
+<img src="https://static.wikia.nocookie.net/lifesteal/images/0/03/ReddoonsSkin.png/revision/latest?cb=20250403203616" border="0"/>
 </p>
 
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ <p align="center">[RENTRY](https://rentry.co/ACR) ‎ ‎ ‎ ‎‎ [ATABOOK‎](https://ohshc.atabook.org)</p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ <p align="center">[RENTRY](https://rentry.co/yourname) ‎ ‎ ‎ ‎‎ [ATABOOK‎](https://ohshc.atabook.org)</p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <!--
 **3OO8/3OO8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
