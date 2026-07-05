@@ -2,7 +2,7 @@
 ㅤㅤㅤㅤㅤㅤ‎ ㅤ‎ ‎ ‎ ㅤ‎ㅤ‎ ‎ ‎  <p align="center">![](https://komarev.com/ghpvc/?username=KyoyaOotori&color=FF0000&label=+REDDOONS)</p>
 
 <p align="center">
-<img src="https://static.wikia.nocookie.net/lifesteal/images/0/03/ReddoonsSkin.png/revision/latest?cb=20250403203616<width="200" height="400"/>
+<img src="https://static.wikia.nocookie.net/lifesteal/images/8/87/Reddoons_Skin.png/revision/latest?cb=20250403203616<width="200" height="400"/>
 </p>
 
 
